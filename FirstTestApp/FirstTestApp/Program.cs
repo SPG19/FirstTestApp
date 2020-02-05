@@ -11,6 +11,7 @@ namespace FirstTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Testing GitHub Second change");
+            Console.WriteLine("Editing in GitHub");
         }
     }
 }
